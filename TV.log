@@ -1,0 +1,55 @@
+INFO: 2023-06-12 08:43:11,645: TV Status: 
+INFO: 2023-06-12 08:43:11,646: TV is On
+INFO: 2023-06-12 08:43:11,646: Channel is : 2
+INFO: 2023-06-12 08:43:11,646: Volume is 10
+INFO: 2023-06-12 08:52:25,410: Turn the TV on and show the status
+INFO: 2023-06-12 08:52:25,411: TV Status: 
+INFO: 2023-06-12 08:52:25,411: TV is On
+INFO: 2023-06-12 08:52:25,411: Channel is : 2
+INFO: 2023-06-12 08:52:25,411: Volume is 10
+INFO: 2023-06-12 08:52:25,412: the channel up twice, raise the volume twice, show status
+INFO: 2023-06-12 08:52:45,688: Turn the TV on and show the status
+INFO: 2023-06-12 08:52:45,689: TV Status: 
+INFO: 2023-06-12 08:52:45,689: TV is On
+INFO: 2023-06-12 08:52:45,689: Channel is : 2
+INFO: 2023-06-12 08:52:45,689: Volume is 10
+INFO: 2023-06-12 08:52:45,751: the channel up twice, raise the volume twice, show status
+INFO: 2023-06-12 08:52:45,751: TV Status: 
+INFO: 2023-06-12 08:52:45,751: TV is On
+INFO: 2023-06-12 08:52:45,751: Channel is : 5
+INFO: 2023-06-12 08:52:45,751: Volume is 10
+INFO: 2023-06-12 08:52:45,751: the TV off, show status, tuen the TV on, show status
+INFO: 2023-06-12 08:52:45,752: TV Status: 
+INFO: 2023-06-12 08:52:45,752: TV is OFF
+INFO: 2023-06-12 08:52:45,752: TV Status: 
+INFO: 2023-06-12 08:52:45,752: TV is On
+INFO: 2023-06-12 08:52:45,752: Channel is : 5
+INFO: 2023-06-12 08:52:45,752: Volume is 10
+INFO: 2023-06-12 08:52:45,752: Lower the volume, mute the sound, show status
+INFO: 2023-06-12 08:52:59,697: Turn the TV on and show the status
+INFO: 2023-06-12 08:52:59,697: TV Status: 
+INFO: 2023-06-12 08:52:59,697: TV is On
+INFO: 2023-06-12 08:52:59,698: Channel is : 2
+INFO: 2023-06-12 08:52:59,698: Volume is 10
+INFO: 2023-06-12 08:52:59,698: the channel up twice, raise the volume twice, show status
+INFO: 2023-06-12 08:52:59,698: TV Status: 
+INFO: 2023-06-12 08:52:59,698: TV is On
+INFO: 2023-06-12 08:52:59,698: Channel is : 5
+INFO: 2023-06-12 08:52:59,698: Volume is 10
+INFO: 2023-06-12 08:52:59,698: the TV off, show status, tuen the TV on, show status
+INFO: 2023-06-12 08:52:59,698: TV Status: 
+INFO: 2023-06-12 08:52:59,698: TV is OFF
+INFO: 2023-06-12 08:52:59,698: TV Status: 
+INFO: 2023-06-12 08:52:59,699: TV is On
+INFO: 2023-06-12 08:52:59,699: Channel is : 5
+INFO: 2023-06-12 08:52:59,699: Volume is 10
+INFO: 2023-06-12 08:52:59,699: Lower the volume, mute the sound, show status
+INFO: 2023-06-12 08:52:59,699: TV Status: 
+INFO: 2023-06-12 08:52:59,699: TV is On
+INFO: 2023-06-12 08:52:59,699: Channel is : 5
+INFO: 2023-06-12 08:52:59,699: sound is muted
+INFO: 2023-06-12 08:52:59,699: Change the channel to 11, mute the sound, show the status
+INFO: 2023-06-12 08:52:59,699: TV Status: 
+INFO: 2023-06-12 08:52:59,699: TV is On
+INFO: 2023-06-12 08:52:59,700: Channel is : 11
+INFO: 2023-06-12 08:52:59,700: Volume is 9
